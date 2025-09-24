@@ -1,7 +1,3 @@
-# Volatility-Forecasting-Using-Advanced-Neural-Networks
-
-Modeling volatility in financial markets, an essential features in portfolio risk management and in the pricing of derivative products such as options. Based on the use of a Variational Autoencoder (VAE) which, through probabilistic latent modeling, makes it possible to generate the dynamics and potential trajectories of future volatility.
-
 
 # Volatility Forecasting Using Advanced Neural Networks
 
@@ -57,5 +53,5 @@ This project provides both **reproducible code** and a **modular framework** for
 
 ---
 
-# Structure clik on Volatility-Forecasting-Using-Advanced-Neural-Networks.ipynb
+### Clik on Volatility-Forecasting-Using-Advanced-Neural-Networks.ipynb
 
